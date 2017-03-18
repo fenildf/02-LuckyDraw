@@ -1,5 +1,7 @@
 # 使用文档
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Loyalsoldier/02-LuckyDraw.svg)](https://greenkeeper.io/)
+
 ## 后端使用说明
 
 1. 下载安装 [composer](https://getcomposer.org) 包管理软件
